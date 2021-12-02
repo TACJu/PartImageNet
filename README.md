@@ -39,6 +39,6 @@ PartImageNet has broad potential in and can be benefit to numerious research fie
 
 ## Example Figures
 
-![](/Users/tacju/Desktop/GitHub/PartImageNet/images/example.png)
+![](./images/example.png)
 
   

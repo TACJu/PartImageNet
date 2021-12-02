@@ -19,7 +19,6 @@ PartImageNet is a large, high-quality dataset with part segmentation annotations
 | Boat (4) | Body, Sail |
 | Aeroplane (2) | Head, Body, Wing, Engine, Tail |
 | Bottle (5) | Body, Mouth |
-| | |
 
 The statistics of train/val/test split is shown below.
 
@@ -29,7 +28,6 @@ The statistics of train/val/test split is shown below.
 | Val | 19 | 2957 |
 | Test | 30 | 4598 |
 | Total | 158 | 24095 |
-|  | | |
 
 For more detailed statistics, please check out our paper.
 

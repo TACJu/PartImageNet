@@ -1,4 +1,4 @@
-# PartImageNet: A Large, High-Quality Dataset of Parts
+# [PartImageNet: A Large, High-Quality Dataset of Parts](https://arxiv.org/abs/2112.00933)
 
 **We will release our dataset and scripts soon after cleaning and approval.**
 

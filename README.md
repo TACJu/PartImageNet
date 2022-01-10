@@ -1,6 +1,22 @@
 # [PartImageNet: A Large, High-Quality Dataset of Parts](https://arxiv.org/abs/2112.00933)
 
-**We will release our dataset and scripts soon after cleaning and approval.**
+## The dataset is ready!
+Links for downloading the dataset and annotation:
+- [Google Drive](https://drive.google.com/drive/folders/1_sKq9g34dsKwfsgLo6j7WCe8Nfceq0Zo?usp=sharing)
+- [Baidu Netdisk](https://pan.baidu.com/s/1ewlhL_wLhnI2INHZVBdq5g)(Access code: k99q)
+
+Our annotations strictly follow the coco style so it should be easy to use the [cocoapi](https://github.com/cocodataset/cocoapi) for visulization the images and annotations.
+
+If you find our work helpful in your research, please cite it as:
+
+```
+@article{he2021partimagenet,
+  title={PartImageNet: A Large, High-Quality Dataset of Parts},
+  author={He, Ju and Yang, Shuo and Yang, Shaokang and Kortylewski, Adam and Yuan, Xiaoding and Chen, Jie-Neng and Liu, Shuai and Yang, Cheng and Yuille, Alan},
+  journal={arXiv preprint arXiv:2112.00933},
+  year={2021}
+}
+```
 
 ## Introduction
 
@@ -33,7 +49,7 @@ For more detailed statistics, please check out our paper.
 
 ## Possible Usage
 
-PartImageNet has broad potential in and can be benefit to numerious research fields while we simply explore its usage in Part Discovery, Few-shot Learning and Semantic Segmentation in the paper. We hope that with the propose of the PartImageNet, we could attarct more attention to the part-based models and yield more interesting works. We will release our implementation later as well.
+PartImageNet has broad potential in and can be benefit to numerious research fields while we simply explore its usage in Part Discovery, Few-shot Learning and Semantic Segmentation in the paper. We hope that with the propose of the PartImageNet, we could attarct more attention to the part-based models and yield more interesting works.
 
 ## Example Figures
 

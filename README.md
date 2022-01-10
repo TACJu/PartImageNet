@@ -3,7 +3,7 @@
 ## The dataset is ready!
 Links for downloading the dataset and annotation:
 - [Google Drive](https://drive.google.com/drive/folders/1_sKq9g34dsKwfsgLo6j7WCe8Nfceq0Zo?usp=sharing)
-- [Baidu Netdisk](https://pan.baidu.com/s/1ewlhL_wLhnI2INHZVBdq5g)(Access code: k99q)
+- [Baidu Netdisk](https://pan.baidu.com/s/1ewlhL_wLhnI2INHZVBdq5g) (Access code: k99q)
 
 Our annotations strictly follow the coco style so it should be easy to use the [cocoapi](https://github.com/cocodataset/cocoapi) for visulization the images and annotations.
 

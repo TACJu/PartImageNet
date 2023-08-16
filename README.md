@@ -2,7 +2,7 @@
 
 ## UPDATE
 We offer two splits for the PartImageNet dataset now.
-- [PartImageNet_OOD](https://drive.google.com/file/d/19kA8-pAxssQI0GD5H8y8KESGaALwChtx/view?usp=sharing), which is used in the Few-shot Learning experiments in the paper (Sec 4.3). In this split, train/val/test sets have different classes so it is suitable to conduct research on out-of-distribution and few-shot learning problems. **This is also the original released split.**
+- [PartImageNet_OOD](https://drive.google.com/file/d/19kA8-pAxssQI0GD5H8y8KESGaALwChtx/view?usp=sharing), which is used in the Few-shot Learning experiments in the paper (Sec 4.3). In this split, train/val/test sets have different classes so it is suitable to conduct research on out-of-distribution and few-shot learning problems. (***This is also the original released split.***)
 - [PartImageNet_Seg](https://drive.google.com/file/d/1rZAECl3XF55NqJfW7Z9N63MFAvXupNuy/view?usp=sharing), which is used in the Semantic Part Segmentation and Object Segmentation in the paper (Sec 4.1, 4.2). In this split, train/val/test sets share the same classes but contain different images like standard datasets. It is also used in [Compositor: Bottom-up Clustering and Compositing for Robust Part and Object Segmentation](https://arxiv.org/abs/2306.07404).
 
 ## The dataset is ready!

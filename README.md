@@ -31,7 +31,7 @@ PartImageNet is a large, high-quality dataset with part segmentation annotations
 | Bird (14) | Head, Body, Wing, Foot, Tail |
 | Snake (15) | Head, Body |
 | Reptile (20) | Head, Body, Foot, Tail |
-| Car (23) | Body, Tier, Side Mirror |
+| Car (19) | Body, Tier, Side Mirror |
 | Bicycle (6) | Head, Body, Seat, Tier |
 | Boat (4) | Body, Sail |
 | Aeroplane (2) | Head, Body, Wing, Engine, Tail |
